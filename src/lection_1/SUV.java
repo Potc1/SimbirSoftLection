@@ -1,7 +1,7 @@
 package lection_1;
 
 import lection_1.Automobile;
-
+//
 public class SUV extends Automobile {
     private double price;
     private String typeOfAWD;

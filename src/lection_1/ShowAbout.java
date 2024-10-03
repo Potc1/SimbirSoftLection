@@ -1,5 +1,5 @@
 package lection_1;
-//13
+//1
 public interface ShowAbout {
     public void ShowAboutSupercar();
 }

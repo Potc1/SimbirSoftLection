@@ -19,12 +19,13 @@ public class Main {
     public static void main(String[] args) {
         Supercar Camaro = new Supercar("camaro",  200, "chevy", 2000, 0);
         //System.out.println(Camaro.GetPrice());
-        //Camaro.StageTunning();
+        //Camaro.StageTunning();123
         Camaro.SetStage(2);
         Supercar.showDiscont();
         System.out.println(Camaro.GetPrice());
         Camaro.display();
         Camaro.ShowAboutSupercar();
         SUV.AvaliableForTunningOptions();
+        ///SUV.AvaliableForTunningOptions();
     }
 }

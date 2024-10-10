@@ -1,7 +1,7 @@
 package lection_1;
 
 import lection_1.Automobile;
-
+//
 public class SUV extends Automobile {
     private double price;
     private String typeOfAWD;
@@ -28,7 +28,7 @@ public class SUV extends Automobile {
     public void display(){
         System.out.printf("model: %s power: %s and born from: %s /n", super.getCarModel(), super.getHoursePowers(), super.manufacture);
     }
-
+//123
     public static void AvaliableForTunningOptions() {
         for(String option : TuningOptions){
             System.out.println(option);

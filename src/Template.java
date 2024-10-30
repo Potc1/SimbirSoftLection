@@ -15,5 +15,6 @@ public class Template <T extends Number>{
     public double multiplicate(){
         return (this.number.doubleValue())*2;
     }
+
 }
 //

@@ -12,5 +12,5 @@ public class Tester {
         System.out.println(isDiv13.test(13));
         myFunctionals<Integer, Double> disc = (a, b, c) -> Double.valueOf(b * b - (4 * a * c));
         System.out.println(disc.discriminant(-2, 3, 2));
-    }
+    }//
 }

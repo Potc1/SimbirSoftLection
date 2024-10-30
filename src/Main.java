@@ -6,6 +6,6 @@ public class Main {
         System.out.println(isDiv13.test(13));
         Dva.setNumber(123.5);
         System.out.println(Dva.multiplicate());
-
+//
     }
 }

@@ -13,4 +13,4 @@ public class Tester {
         myFunctionals<Integer, Double> disc = (a, b, c) -> Double.valueOf(b * b - (4 * a * c));
         System.out.println(disc.discriminant(-2, 3, 2));
     }
-}//
+}

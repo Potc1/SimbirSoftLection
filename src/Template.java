@@ -16,4 +16,4 @@ public class Template <T extends Number>{
         return (this.number.doubleValue())*2;
     }
 
-}
+}//
